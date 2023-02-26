@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muskan
-- 👀 I’m interested in IOT and Embedded Systems
+- 👀 I’m interested in Data Analytics and Dev ops
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate in projects
 - 📫 How to reach me muskangupta9801@gmail.com
